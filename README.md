@@ -15,3 +15,4 @@ Problems solved from the Hackerhank:
 - Simples Text Editor
 - Fibbonacci Modified
 - Utopia Tree
+- Array DS
