@@ -18,3 +18,4 @@ Problems solved from the Hackerhank:
 - Array DS
 - Tree Pre-Order Transversal
 - Tree Post-Order Transversal
+- InOrder Transversal
