@@ -16,3 +16,4 @@ Problems solved from the Hackerhank:
 - Fibbonacci Modified
 - Utopia Tree
 - Array DS
+- New Year Chaos
