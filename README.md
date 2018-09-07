@@ -17,10 +17,8 @@ Problems solved from the Hackerhank:
 - Utopia Tree
 - Array DS
 - Flipping the Matrix
-<<<<<<< HEAD
-=======
 - Tree Pre-Order Transversal
 - Tree Post-Order Transversal
 - InOrder Transversal
->>>>>>> 7e86bcb935b3ab79e756542f4e3ebb8535a429b4
 - New Year Chaos
+- Absolute Permutation
