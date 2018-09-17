@@ -23,3 +23,4 @@ Problems solved from the Hackerhank:
 - New Year Chaos
 - Absolute Permutation
 - Lily's Homework
+- Sparse Array
