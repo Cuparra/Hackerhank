@@ -24,3 +24,5 @@ Problems solved from the Hackerhank:
 - Absolute Permutation
 - Lily's Homework
 - Sparse Array
+- Equal Stack
+- Components in a graph
