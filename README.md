@@ -26,3 +26,4 @@ Problems solved from the Hackerhank:
 - Sparse Array
 - Equal Stack
 - Components in a graph
+- Median Updates
