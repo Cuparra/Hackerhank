@@ -27,3 +27,4 @@ Problems solved from the Hackerhank:
 - Equal Stack
 - Components in a graph
 - Median Updates
+- Jessie and Cookies
