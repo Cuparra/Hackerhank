@@ -31,3 +31,5 @@ Problems solved from the Hackerhank:
 - Queries with fixed length
 - Picking Numbers
 - Sequence Equation
+- Eletronic Shop
+- Circular Array
