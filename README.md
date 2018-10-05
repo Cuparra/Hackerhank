@@ -28,3 +28,5 @@ Problems solved from the Hackerhank:
 - Components in a graph
 - Median Updates
 - Jessie and Cookies
+- Queries with fixed length
+- Picking Numbers
