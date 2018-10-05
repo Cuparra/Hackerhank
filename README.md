@@ -30,3 +30,4 @@ Problems solved from the Hackerhank:
 - Jessie and Cookies
 - Queries with fixed length
 - Picking Numbers
+- Sequence Equation
