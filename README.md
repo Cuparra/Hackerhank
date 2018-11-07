@@ -33,3 +33,4 @@ Problems solved from the [Hackerhank](https://www.hackerrank.com):
 - Sequence Equation
 - Eletronic Shop
 - Circular Array
+- Highest Value Palindrome
